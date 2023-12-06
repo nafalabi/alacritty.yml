@@ -1,0 +1,31 @@
+import:
+  #- ~/.config/alacritty/themes/themes/remedy_dark.yaml
+  #- ~/.config/alacritty/themes/themes/tango_dark.yaml
+  - ~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.yaml
+window:
+  opacity: 0.975
+  dynamic_title: true
+
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: "MesloLGS NF"
+    style: Regular
+  bold:
+    family: "MesloLGS NF"
+    style: Bold
+  italic:
+    family: "MesloLGS NF, Regular Italic"
+    style: Italic
+  bold_italic:
+    family: "MesloLGS NF, Bold Italic"
+    style: Bold Italic
+
+  size: 11.5
+
+cursor:
+  style:
+    shape: Block
+  vi_mode_style:
+    shape: Block
