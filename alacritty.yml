@@ -1,9 +1,9 @@
-import:
+#import:
   #- ~/.config/alacritty/themes/themes/remedy_dark.yaml
   #- ~/.config/alacritty/themes/themes/tango_dark.yaml
-  - ~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.yaml
+  #- ~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.yaml
 window:
-  opacity: 0.975
+  opacity: 0.8
   dynamic_title: true
 
 # Font configuration
