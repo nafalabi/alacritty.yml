@@ -3,7 +3,7 @@
   #- ~/.config/alacritty/themes/themes/tango_dark.yaml
   #- ~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.yaml
 window:
-  opacity: 0.8
+  opacity: 0.85
   dynamic_title: true
 
 # Font configuration
